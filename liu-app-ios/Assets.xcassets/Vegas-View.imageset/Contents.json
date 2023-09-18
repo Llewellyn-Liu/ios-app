@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "1046px-Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "1046px-Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "1046px-Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
